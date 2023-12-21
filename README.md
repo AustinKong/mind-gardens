@@ -59,7 +59,7 @@ This project is no longer under active development. Suggestions, issues and bug 
 	F - Toggle fast forward (x1, x2, x4)
 	
 ## Authors
-Art & Programming - Austin Kong [@AustinKong](https://github.com/AustinKong)
-Music & SFX - Joseph Tan [@Hosef](https://github.com/Hosef99)
+* Art & Programming - Austin Kong [@AustinKong](https://github.com/AustinKong)
+* Music & SFX - Joseph Tan [@Hosef](https://github.com/Hosef99)
 ## License
 This project is licensed under MIT license. View license in [license.txt](license.txt)
