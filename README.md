@@ -4,7 +4,7 @@ A simple gardening simulator!
 ![Image](Image.png)
 ### Description
 Eden, formerly "Mind Gardens", is a simple gardening simulator with charming 3D pixel art graphics, and beautiful ambiance effects. Tend to your garden and grow flowers, the game was designed to provide a calming experience. You might even get surprise visits from a snails!
-<br>
+<br><br>
 Features:
 
 * Real-time particle effects such as rain and dirt particles
