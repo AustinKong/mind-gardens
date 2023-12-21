@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 427157dfaadb32943bcb8f3435b5536b, type: 3}
+  m_Name: Iris
+  m_EditorClassIdentifier: 
+  name: Iris
+  scientificName: 'Iris germanica '
+  models:
+  - {fileID: 919132149155446097, guid: 36769a288812c804c8e89c8b69e7b37d, type: 3}
+  - {fileID: 919132149155446097, guid: f99d6dd6f48866649a784cf786abd337, type: 3}
+  - {fileID: 919132149155446097, guid: 7aa624d0dae7c8d4b9e61ad5e157847d, type: 3}
+  growthDuration: 120
+  blossomDuration: 80
+  happy_sad: 0
+  calm_anxious: 3
+  energized_tired: -2
+  crowdingTolerance: 2
+  seed: {fileID: 11400000, guid: 98629a4b8de2a8a4496ca932aa2e20c6, type: 2}

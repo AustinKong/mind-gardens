@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 427157dfaadb32943bcb8f3435b5536b, type: 3}
+  m_Name: Thistle
+  m_EditorClassIdentifier: 
+  name: Thistle
+  scientificName: Cirsium vulgare
+  models:
+  - {fileID: 919132149155446097, guid: 3af29beeb8a1c2243a155729d175cd26, type: 3}
+  - {fileID: 919132149155446097, guid: 7b670636ca069504d97bf3b4a03e28f9, type: 3}
+  - {fileID: 919132149155446097, guid: bfd57edd341af1a42822a0492c1fb6d2, type: 3}
+  growthDuration: 180
+  blossomDuration: 120
+  happy_sad: 1
+  calm_anxious: -1
+  energized_tired: -1
+  crowdingTolerance: 6
+  seed: {fileID: 11400000, guid: 8badeba2888422b49ad8aec59a400ee8, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 427157dfaadb32943bcb8f3435b5536b, type: 3}
+  m_Name: Tulip
+  m_EditorClassIdentifier: 
+  name: Tulip
+  scientificName: Tulipa cv. menton
+  models:
+  - {fileID: 919132149155446097, guid: befecb03b2946b74db9f31acfb2189e3, type: 3}
+  - {fileID: 919132149155446097, guid: 05d4bb9beb0f5724db3b0e18ad353878, type: 3}
+  - {fileID: 919132149155446097, guid: aaca117018729004eb0c7e378323cb89, type: 3}
+  growthDuration: 60
+  blossomDuration: 50
+  happy_sad: 2
+  calm_anxious: -1
+  energized_tired: 1
+  crowdingTolerance: 8
+  seed: {fileID: 11400000, guid: 06e2303b72e21cb439005dee424dbced, type: 2}

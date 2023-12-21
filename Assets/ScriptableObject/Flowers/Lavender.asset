@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 427157dfaadb32943bcb8f3435b5536b, type: 3}
+  m_Name: Lavender
+  m_EditorClassIdentifier: 
+  name: Lavender
+  scientificName: Lavandula angustifolia
+  models:
+  - {fileID: 919132149155446097, guid: 2cff2cca43c721440b24c832ecf0aab3, type: 3}
+  - {fileID: 919132149155446097, guid: f9f5bdc13507e314cb034992e0366b8c, type: 3}
+  - {fileID: 919132149155446097, guid: 40724baf6c4f1954ab501c447927b37c, type: 3}
+  growthDuration: 120
+  blossomDuration: 100
+  happy_sad: 1
+  calm_anxious: 1
+  energized_tired: -1
+  crowdingTolerance: 6
+  seed: {fileID: 11400000, guid: c9477e2817c11794fa51a14773fd677e, type: 2}

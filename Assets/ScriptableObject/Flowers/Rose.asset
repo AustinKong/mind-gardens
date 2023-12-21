@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 427157dfaadb32943bcb8f3435b5536b, type: 3}
+  m_Name: Rose
+  m_EditorClassIdentifier: 
+  name: Rose
+  scientificName: 'Rosa gallicanae '
+  models:
+  - {fileID: 919132149155446097, guid: 3ed9754e92f139d43b7330ecca7b06f4, type: 3}
+  - {fileID: 919132149155446097, guid: 7e3eb9d4a96c1ba49908e2b2591f1426, type: 3}
+  - {fileID: 919132149155446097, guid: 7e78e532134161a4f80ee34045393ad5, type: 3}
+  growthDuration: 180
+  blossomDuration: 140
+  happy_sad: 1
+  calm_anxious: 1
+  energized_tired: 0
+  crowdingTolerance: 7
+  seed: {fileID: 11400000, guid: 1ab5301b636a5b74f88ee2dab94a26c6, type: 2}

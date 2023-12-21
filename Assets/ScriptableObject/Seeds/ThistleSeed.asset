@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2de3b010b5db294ea1c4383be506876, type: 3}
+  m_Name: ThistleSeed
+  m_EditorClassIdentifier: 
+  name: Thistle Seed
+  sprite: {fileID: 0}
+  flower: {fileID: 11400000, guid: 194924c6eb4e0ac48bb55d9346c6363b, type: 2}
